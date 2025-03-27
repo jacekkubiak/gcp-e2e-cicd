@@ -14,7 +14,7 @@ The main files/folders in this repository are:
 ## Create a repo
 This demo relies on you making git check-ins/pushes to simulate a development workflow. Fork this repo, or otherwise copy it into your own Github repo.
 
-## Bootstrap Google Cloud demo
+## Bootstrap Google Cloud demoaaaaa
 Bootstrap scripts are in the `bootstrap` folder.
 
 The `init.sh` script is provided to bootstrap much of the configuration setup. You'll still need to do some steps manually after this script runs though.
