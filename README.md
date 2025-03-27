@@ -20,7 +20,7 @@ Bootstrap scripts are in the `bootstrap` folder.
 The `init.sh` script is provided to bootstrap much of the configuration setup. You'll still need to do some steps manually after this script runs though.
 
 1. Clone this repo and commit it to your own git repo.
-2. Replace project-id-here with your Google Cloud project-id on line 3.
+2. Replace project-id-here with your Google Cloud project-id on line 3. eslkfnslekfnlwekfglkewnkf
 3. run `. ./bootstrap/init.sh`
 4. Verify that the Google Cloud Deploy pipeline was created in [Google Cloud Deploy UI](https://console.cloud.google.com/deploy/delivery-pipelines)
 5. Setup a Cloud Build trigger for your repo
